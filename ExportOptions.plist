@@ -11,9 +11,9 @@
 		<key>appURL</key>
 		<string>https://github.com/mprmem/test/raw/master/Bike%20Wash%20Customer.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/mprmem/test/raw/1.png</string>
+		<string>https://github.com/mprmem/test/raw.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/mprmem/test/raw/1.png</string>
+		<string>https://github.com/mprmem/test/raw.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>

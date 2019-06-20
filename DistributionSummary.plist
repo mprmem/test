@@ -12,7 +12,7 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+				<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 				<key>dateExpires</key>
 				<string>2020/6/19</string>
 				<key>type</key>
@@ -28,7 +28,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -52,7 +52,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -76,7 +76,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -100,7 +100,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -124,7 +124,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -148,7 +148,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -172,7 +172,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -196,7 +196,7 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>390F7622F81308550C902F8DCFCE1BE4640FF3D1</string>
+						<string>9854A503BFF60C932AC197590259E6760CAA9601</string>
 						<key>dateExpires</key>
 						<string>2020/6/19</string>
 						<key>type</key>
@@ -229,7 +229,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>a3c4b3f8-d172-47c5-8654-659be1aed704</string>
+				<string>45052a81-70fa-462b-b892-cf6ef1cfacf0</string>
 				<key>name</key>
 				<string>iOS Team Ad Hoc Provisioning Profile: com.cv.bwc</string>
 			</dict>
